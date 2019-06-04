@@ -1,0 +1,21 @@
+server:
+  port: 8080
+girl:
+  cupSize: B
+  age: 18
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://xxx:3306/dbgirl?useSSL=true
+    username: user
+    password: user
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+  mvc:
+    view:
+      prefix: /WEB-INF/views/
+      suffix: .jsp
+
+

@@ -1,0 +1,30 @@
+Manifest-Version: 1.0
+Class-Path: spring-expression-5.0.4.RELEASE.jar spring-data-commons-2.
+ 0.5.RELEASE.jar logback-classic-1.2.3.jar spring-context-5.0.4.RELEAS
+ E.jar jackson-annotations-2.9.0.jar spring-boot-starter-data-jpa-2.0.
+ 0.RELEASE.jar classmate-1.3.4.jar mysql-connector-java-5.1.45.jar jbo
+ ss-logging-3.3.2.Final.jar spring-jcl-5.0.4.RELEASE.jar spring-boot-2
+ .0.0.RELEASE.jar tomcat-embed-core-8.5.28.jar spring-boot-starter-tom
+ cat-2.0.0.RELEASE.jar aspectjweaver-1.8.13.jar dom4j-1.6.1.jar log4j-
+ to-slf4j-2.10.0.jar spring-boot-starter-logging-2.0.0.RELEASE.jar tom
+ cat-embed-el-8.5.28.jar spring-boot-autoconfigure-2.0.0.RELEASE.jar s
+ pring-tx-5.0.4.RELEASE.jar spring-boot-configuration-processor-2.0.0.
+ RELEASE.jar hibernate-core-5.2.14.Final.jar spring-data-jpa-2.0.5.REL
+ EASE.jar javassist-3.22.0-GA.jar jul-to-slf4j-1.7.25.jar spring-core-
+ 5.0.4.RELEASE.jar javax.annotation-api-1.3.2.jar jandex-2.0.3.Final.j
+ ar spring-jdbc-5.0.4.RELEASE.jar spring-boot-starter-2.0.0.RELEASE.ja
+ r HikariCP-2.7.8.jar hibernate-commons-annotations-5.0.1.Final.jar sl
+ f4j-api-1.7.25.jar jackson-core-2.9.4.jar spring-web-5.0.4.RELEASE.ja
+ r spring-orm-5.0.4.RELEASE.jar spring-boot-starter-json-2.0.0.RELEASE
+ .jar antlr-2.7.7.jar hibernate-jpa-2.1-api-1.0.0.Final.jar tomcat-emb
+ ed-websocket-8.5.28.jar spring-boot-starter-jdbc-2.0.0.RELEASE.jar lo
+ gback-core-1.2.3.jar spring-beans-5.0.4.RELEASE.jar jackson-datatype-
+ jdk8-2.9.4.jar jackson-module-parameter-names-2.9.4.jar spring-webmvc
+ -5.0.4.RELEASE.jar snakeyaml-1.19.jar spring-boot-starter-web-2.0.0.R
+ ELEASE.jar hibernate-validator-6.0.7.Final.jar spring-boot-starter-ao
+ p-2.0.0.RELEASE.jar javax.transaction-api-1.2.jar validation-api-2.0.
+ 1.Final.jar spring-aspects-5.0.4.RELEASE.jar jackson-datatype-jsr310-
+ 2.9.4.jar log4j-api-2.10.0.jar jackson-databind-2.9.4.jar spring-aop-
+ 5.0.4.RELEASE.jar
+Main-Class: com.klee.girl.GirlApplication
+
